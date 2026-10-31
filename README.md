@@ -158,6 +158,14 @@ Open `Receiver.ino` confirm the board is correct and upload the code.
 | **Hardware & Linkages (Pushrods, Horns, Wires)**| 1 Set | $10 | https://robu.in/product/d1x700mm-z-type-push-pull-steel-rod-for-rc-aircraft-aero-modelling-2pcs/|
 | **Total** | $40(aprox) | 
 
+# Full working video
+
+Video 1: https://youtu.be/rrU_qEG8W9A
+
+Video 2 shows clearly how ailerons and elevator work.  
+
+Video 2: https://youtu.be/Hg1TWhAzz4g
+
 ## Hard Lessons & Practical Fixes and Failure
 
 * **Sun Board Snapping:** The 5mm Sun Board is strong under stress but it breaks very hard  at joints when it takes a hard hit nose dives often tear the glue points apart and this made my aircraft to fall off and everything snapped where ever possible.  
