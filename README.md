@@ -158,7 +158,7 @@ Open `Receiver.ino` confirm the board is correct and upload the code.
 | **Hardware & Linkages (Pushrods, Horns, Wires)**| 1 Set | $10 | https://robu.in/product/d1x700mm-z-type-push-pull-steel-rod-for-rc-aircraft-aero-modelling-2pcs/|
 | **Total** | $40(aprox) | 
 
-## Hard Lessons & Practical Fixes
+## Hard Lessons & Practical Fixes and Failure
 
 * **Sun Board Snapping:** The 5mm Sun Board is strong under stress but it breaks very hard  at joints when it takes a hard hit nose dives often tear the glue points apart and this made my aircraft to fall off and everything snapped where ever possible.  
 
@@ -167,3 +167,9 @@ Open `Receiver.ino` confirm the board is correct and upload the code.
 * **Transmitter Antenna Warning:** Never turn on the NRF module without attaching the antenna without the antenna the this will burn the modeul.
   
 * **Power Dip Resets:** When both servos move at speed the power draw can cause the 5V line to drop below 4.2V which  resets the microcontroller add capacitors to avoid these brownouts.
+
+# Credits
+* **[Arduino](https://www.arduino.cc/)** - Microcontroller programming
+* **[TMRh20 RF24](https://github.com/nRF24/RF24)** - Wireless communication library
+* **[GrabCAD](https://grabcad.com/library)** - CAD electronic models for full CAD assembly
+* **[Hack Club Forge](https://forge.hackclub.com/)** - For supporting projects in this format
