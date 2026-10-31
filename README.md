@@ -145,18 +145,18 @@ Open `Receiver.ino` confirm the board is correct and upload the code.
 ## Bill of Materials (BOM)
 
 | Item | Quantity | Aprox. Cost | Link/Source |
-
-| :-- | :-- | :-- | :--
-| **Arduino Nano** 2 | | |
-| **NRF24L01 Transceiver** 2 | | |
-| **A2212 Brushless Motor** 1 | | |
-| **30A Brushless ESC** 1 | | |
-| **2S LiPo Battery (7.4V 2200 mAh)** 1 | | |
-| **SG90 / MG90S Micro Servos** 2 | | |
-| **2-Axis Joystick Modules** 2 | | |
-| **Sun Board (5mm)** | 1 Sheet | | |
-| **100uF Capacitors** 2 | | |
-| **Hardware & Linkages (Pushrods, Horns, Wires)** 1 Set | | |
+| :-- | :-- | :-- | :-- |
+| **Arduino Nano**| 2 | $3 | https://robocraze.com/products/nano-board-r3-compatible-with-arduino?variant=40193265533081&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&utm_source=google&utm_medium=cpc&utm_campaign=BL+%7C+Pmax+%7C+Feed+Only+%7C+GR+%3E+35%25+%7C+18%2F05&utm_source=googleads&utm_medium=ppc&utm_campaign=21311497592&utm_content=_&utm_term=&campaignid=21311497592&adgroupid=&campaign=21311497592&gad_source=1&gad_campaignid=21305067285&gbraid=0AAAAADgHQvasLJjjxNagelD3NzUApo0Sp&gclid=CjwKCAjwo5bXBhAEEiwAkgpgXEpGHAlByEkQQZUrwtucBQT5YaD8XUie1MPGX5yXGlxcU5bwbR5hMhoCUvEQAvD_BwE|
+| **NRF24L01 Transceiver**| 2 | $2 | https://robocraze.com/products/nrf24l01-pa-lna?variant=40192567115929&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&campaignid=22114711878&adgroupid=&keyword=&device=c&gad_source=1&gad_campaignid=22124708836&gbraid=0AAAAADgHQvZI-7LO5ZmIi9OUs8pY3KI-Z&gclid=CjwKCAjwo5bXBhAEEiwAkgpgXE-Sww5F5cShQoQK800GepznglX0j2dr1A6HsUtgsXfWZuKEAd_FpBoCvGAQAvD_BwE |
+| **555 Brushed Motor**| 1 | $3 | https://robu.in/product/555-front-and-rear-ball-bearing-motors-dc-24v-12v-12000rpm/?gad_source=1&gad_campaignid=20387462343&gbraid=0AAAAADvLFWd-ZnjYc328hUHn8QzjO3BmC&gclid=CjwKCAjwo5bXBhAEEiwAkgpgXDKM3rA24BDH3kmB1cCAcbmhnOGLnzy1QiweXMlubQIRwY3ShttAexoC0qUQAvD_BwE|
+| **30A Brushed ESC**| 1 | $7 | https://robu.in/product/30-a-brushed-esc-no-brake/?gad_source=1&gad_campaignid=17419548928&gbraid=0AAAAADvLFWfM2rqHCxcdv4dcC75Zk0A-1&gclid=CjwKCAjwo5bXBhAEEiwAkgpgXFI6ZAn_ETnHbwuOrR5YCiNNdoQGBY2zx4c3_ayVXg3f8-aJV8XLwRoC8SYQAvD_BwE|
+| **LiPo Battery (7.4V 2200 mAh)**| 1 | $1 | https://robocraze.com/products/3-7v-2000mah-18650-li-ion-battery?variant=41414818758809&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&campaignid=22114711878&adgroupid=&keyword=&device=c&gad_source=1&gad_campaignid=22124708836&gbraid=0AAAAADgHQvZI-7LO5ZmIi9OUs8pY3KI-Z&gclid=CjwKCAjwo5bXBhAEEiwAkgpgXPLakO6l_WEg3begUYDkZibh-AKcboLf7YLFGEMt3WPnYrhZvlS-oRoCYeIQAvD_BwE|
+| **SG90 / MG90S Micro Servos**| 2 | $3 | https://robu.in/product/mg90s-9g-servo-metal-gear/ |
+| **2-Axis Joystick Modules**| 2 | $1| https://robu.in/product/joystick-module-ps2-breakout-sensor/|
+| **Sun Board (5mm)** | 1 Sheet | $7 | https://www.amazon.in/Foam-Board-Sun-Thickness-Size/dp/B0F2SYL8JF/ref=sr_1_4_sspa?dib=eyJ2IjoiMSJ9.HOqEdx4RBzaMEymgqocBI6eJbkmiGxpDIvb_o6fzxxF-CMQxCdJYnegUFJcjm26W3fvcSxGimKJ_zd_OIY2QEAMnPECaldV-T2ivAIJUxHwybqXEahcS96JUPcTSbiLzwzpnokhMh30ZjVHuewts4EnHrqKAu4oRPsie7RMKVHExA8HLN4QbXsck1zM4AL_2gUwUJL5u4eZcQOrylhYpvfqWv1MV1O6YbcLUbXz12yVmyoV7XbWgOyby8uvzPsWqRyI_xmJHIKBQI5irnYok86Quhs4sH69QQxKgtr9CqQ4.wGod8QdSKQq-J9LFfgOBwRnlqlRfYb7cnGwnuSZHDoI&dib_tag=se&keywords=sun+board+sheet+5mm+large+size&qid=1793454742&sr=8-4-spons&aref=DWKzZHbagg&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1|
+| **100uF Capacitors** |2 | $2 | https://robu.in/product/100uf-250v-electrolytic-capacitor-dip-pack-of-2/|
+| **Hardware & Linkages (Pushrods, Horns, Wires)**| 1 Set | $10 | https://robu.in/product/d1x700mm-z-type-push-pull-steel-rod-for-rc-aircraft-aero-modelling-2pcs/|
+| **Total** | $40(aprox) | 
 
 ## Hard Lessons & Practical Fixes
 
